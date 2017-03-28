@@ -1,0 +1,13 @@
+Notas Clase 1
+
+Editor sugerido -> Visual Studio Code (funciona en linux)
+
+Software -> Mac -> Alfred (lanzador y buscador)
+                -> Dash (buscar documentacion)
+                
+Tecla shift para seleccion y tab para identar
+
+Uso de GIT en la terminal
+
+git push -u "crea una rama"
+git push -u origin master
