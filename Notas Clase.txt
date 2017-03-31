@@ -28,4 +28,6 @@ git push -u origin master
 
 Notas Clase 2
 
+Repaso clase 1
+
 
