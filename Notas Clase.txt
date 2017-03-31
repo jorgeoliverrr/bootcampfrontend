@@ -1,0 +1,31 @@
+Notas Clase 1
+
+Editor sugerido -> Visual Studio Code (funciona en linux)
+
+Software -> Mac -> Alfred (lanzador y buscador)
+                -> Dash (buscar documentacion)
+                
+Tecla shift para seleccion y tab para identar
+
+Uso de GIT en la terminal
+
+instalar zsh para 
+instalar oh-my-zsh
+usar ese terminal y personalizar 
+instalar git
+
+git init
+git config --global user.email johndoe@example.com
+git config --global user.name "John Doe"
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/jorgeoliverrr/bootcampfrontend.git
+
+/** "crea una rama" **/
+
+git push -u origin master
+
+Notas Clase 2
+
+
